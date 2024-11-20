@@ -1,10 +1,6 @@
 # controle-acesso
 Trabalho A3 - Sistemas Distribuídos e Mobile
-Integrantes: 
-Layra Sofia Zaniboni de Oliveira
-Igor Carmona
-Pedro Capodaglio
-Beatriz Ky
+Integrantes: Layra Sofia Zaniboni de Oliveira / Igor Carmona / Pedro Capodaglio / Beatriz Kiyoko
 
 O sistema consistirá em realizar o controle de acessos de colaboradores de uma empresa. Ele vai guardar o horário de entrada e saída dos funcionários e permitir que o administrador realize algumas consultas como: horário de entrada e saída por funcionário e quantidade de acessos em um determinado dia.
 
