@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://145.223.74.142:3306/ponto
+    username: root
+    password: q0H600kVwjIKnCNPOoB
+    driver-class-name: com.mysql.jdbc.Driver
